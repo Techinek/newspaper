@@ -5,7 +5,7 @@ Newspaper app with authentication and authorization system, where users can post
 
 1. Clone the repository:
 ```
-https://github.com/Techinek/newspaper.git
+git clone https://github.com/Techinek/newspaper.git
 ```
 2. Install all the needed packages:
 ```
